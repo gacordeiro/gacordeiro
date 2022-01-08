@@ -1,21 +1,22 @@
-[🇺🇸/🇬🇧 english version](README_EN.md)
 ## Guilherme Cordeiro
-#### Desenvolvedor mobile
-Experiente na plataforma Android, mas com conhecimentos gerais de iOS e desenvolvimento Multiplataforma.
-<br>Focado em Experiência do Usuário e Design Driven Development.
-<br>Defensor de soluções testáveis e de fácil manutenção, automatização de processos.
-<br>O básico é importante, aprenda bem o básico para depois focar no avançado.
 
-- 💻 Busco construir produtos apoiados em tecnologia no [Luizalabs](https://medium.com/luizalabs)
-- 🌱 Estou expandindo meu conhecimento de mobile e estudando soluções multiplataforma
-- 💬 Compartilhar conhecimento é fundamental, ninguém cresce sozinho
-- 🤔 Um fato 
+### Who?
+- Mobile Developer
+- Experienced Android Development 
+  - _but dabbled a little in iOS too_
+- Live in Brazil 🇧🇷 with my wife and 2 cats 🐈‍⬛🐈
 
-#### Quer falar comigo?
+### What?
+- Continuous learner
+- Kotlin enthusiast
+- Passionate about user experience
+- Advocate of testable and maintainable solutions
+- Believe that software should be written for _humans_ to read
+- Knowledge is meant to be shared, no one grows alone
+- Basics are important. Learn the basics well, then focus on the advanced :)
+- A strong collaboration with Design and Product teams is as important as writing performant, bug-free code _(if not more)_
 
-[<img align="left" alt="gacordeiro | mailto" width="22px" src="./assets/icons/envelope-closed.svg" />](mailto:gac@tutu.land)
-[<img align="left" alt="gacordeiro | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/guilhermecordeiro)
-[<img align="left" alt="gacordeiro | Profile" width="22px" src="assets/icons/person.svg" />](http://tutu.land/gac/)
-
-<br />
-
+### Where?
+[<img alt="gacordeiro | mailto" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />](mailto:gacordeiro@gmail.com)
+[<img alt="gacordeiro | LinkedIn"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/guilhermecordeiro)
+[<img alt="gacordeiro | mailto" src="https://img.shields.io/badge/Developers-3DDC84?logo=android&logoColor=white" />](https://developers.google.com/profile/u/gacordeiro)
