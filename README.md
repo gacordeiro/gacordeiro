@@ -20,3 +20,8 @@
 [<img alt="gacordeiro | mailto" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />](mailto:gacordeiro@gmail.com)
 [<img alt="gacordeiro | LinkedIn"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/guilhermecordeiro)
 [<img alt="gacordeiro | mailto" src="https://img.shields.io/badge/Developers-3DDC84?logo=android&logoColor=white" />](https://developers.google.com/profile/u/gacordeiro)
+
+_This account is where I keep my personal studies only.
+<br>Examples and open-source projects:_
+[<img alt="gacordeiro | mailto" align="center" float="right" src="https://img.shields.io/badge/tutuland-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/tutuland)
+
