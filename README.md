@@ -22,6 +22,7 @@
 [<img alt="gacordeiro | mailto" src="https://img.shields.io/badge/Developers-3DDC84?logo=android&logoColor=white" />](https://developers.google.com/profile/u/gacordeiro)
 
 _This account is where I keep my personal studies only.
-<br>Examples and open-source projects:_
-[<img alt="gacordeiro | mailto" align="center" float="right" src="https://img.shields.io/badge/tutuland-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/tutuland)
+<br>Find examples and open-source projects like [walk of fame](https://github.com/tutuland/walk-of-fame) on:_
+<br>[<img alt="gacordeiro | mailto" align="center" float="right" src="https://img.shields.io/badge/tutuland-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/tutuland)
+
 
